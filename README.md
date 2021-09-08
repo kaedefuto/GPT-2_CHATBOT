@@ -5,6 +5,8 @@
 ## 概要<br>
 GPT-2で作成したChatbot
 
+今後はレンタルサーバで動かす予定です
+
 <img src="https://github.com/kaedefuto/GPT-2_Chatbot/blob/main/images/IMG_5630.jpg" alt="sample" width="40%" height="40%">
 
 ## 環境
@@ -21,10 +23,10 @@ GPT-2で作成したChatbot
 
 ### 実行環境
 
-- デモ環境:Ubuntu18.04 or macOS
+- 実行デモ環境:Ubuntu18.04 or macOS
 - フロント:Line Messaging API
 - バック:Django
-- ngrok
+- ツール:ngrok
 
 ## 実行
 
