@@ -11,6 +11,11 @@ GPT-2で作成したChatbot
 
 ### モデル作成環境
 
+- 環境:Ubuntu18.04
+- GPU:Quadro RTX 8000
+- ドライバー:NVIDIA-SMI 460.32.03, Driver Version: 460.32.03, CUDA Version: 11.2
+- 事前学習済みモデル:https://huggingface.co/rinna
+
 ### 実行環境
 
 ## 実行
