@@ -9,6 +9,10 @@ GPT-2で作成したChatbot
 
 ## 実行環境
 
+```
+python manage.py runserver
+```
+
 ## 実行
 
 ## モデルの作成
