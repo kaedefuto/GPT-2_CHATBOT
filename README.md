@@ -13,6 +13,9 @@ GPT-2で作成したChatbot
 
 ## モデルの作成
 
+https://huggingface.co/kaedefuto/chat_bot
+
 ## 参考サイト
 
-作成したモデル:https://huggingface.co/kaedefuto/chat_bot
+https://qiita.com/m__k/items/36875fedf8ad1842b729
+
