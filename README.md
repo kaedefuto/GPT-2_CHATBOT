@@ -5,7 +5,7 @@
 ## 概要<br>
 GPT-2で作成したChatbot
 
-<img src="https://github.com/kaedefuto/GPT-2_Chatbot/blob/main/images/IMG_5630.jpg" alt="sample" width="300" height="200">
+<img src="https://github.com/kaedefuto/GPT-2_Chatbot/blob/main/images/IMG_5630.jpg" alt="sample" width="300" height="300">
 
 ## 環境
 
