@@ -2,7 +2,7 @@
 
 ## chatbot_v1
 
-### 概要<br>
+## 概要<br>
 GPT-2で作成したChatbot
 
 ## 環境
