@@ -5,7 +5,7 @@
 ## 概要<br>
 GPT-2で作成したChatbot
 
-![sample](https://github.com/kaedefuto/GPT-2_Chatbot/blob/main/images/IMG_5630.jpg "word cloud sample")
+<img src="https://github.com/kaedefuto/GPT-2_Chatbot/blob/main/images/IMG_5630.jpg" alt="sample" width="300" height="200">
 
 ## 環境
 
