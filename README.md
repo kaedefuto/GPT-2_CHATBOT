@@ -28,6 +28,14 @@ GPT-2で作成したChatbot
 - バック:Django
 - ツール:ngrok
 
+```
+pip install torch torchvision torchaudio
+pip install transformers==4.5.0
+pip install datasets==1.2.1
+pip install sentencepiece==0.1.91
+pip install django==3.2.5
+```
+
 ## 実行
 
 ```
