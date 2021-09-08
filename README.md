@@ -18,7 +18,7 @@ https://huggingface.co/kaedefuto/chat_bot
 ## 参考サイト
 
 Line Messaging API<br>
-https://qiita.com/m__k/items/36875fedf8ad1842b729
+https://qiita.com/njn0te/items/d717840dc2addeae6439
 
 GPT-2<br>
 https://qiita.com/m__k/items/36875fedf8ad1842b729
