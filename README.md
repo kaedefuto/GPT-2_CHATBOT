@@ -1,14 +1,15 @@
-# GPT-2_Chatbot<br>
-## chatbot_v1<br>
+# GPT-2_Chatbot
+
+## chatbot_v1
+
 ### 概要<br>
-GPT-2で作成したChatbot<br>
-## 環境<br>
+GPT-2で作成したChatbot
 
-## 実行<br>
+## 環境
 
-## モデルの作成<br>
+## 実行
 
-## ライセンス
+## モデルの作成
 
 ## 参考サイト
 
