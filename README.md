@@ -16,6 +16,7 @@ GPT-2で作成したChatbot
 - ドライバー:NVIDIA-SMI 460.32.03, Driver Version: 460.32.03, CUDA Version: 11.2
 - pytorch環境:https://kaedefuto.github.io/kaede_blog/posts/1/conda/
 - 事前学習済みモデル:https://huggingface.co/rinna
+- ファインチューニング:ツイートデータ(自作リプライ会話データ:2021/8/1-8/3)
 - プログラム:https://github.com/kaedefuto/gpt-2/blob/main/ubuntu/rinnagpt2_ubuntu.ipynb
 
 ### 実行環境
