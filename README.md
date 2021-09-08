@@ -7,7 +7,7 @@ GPT-2で作成したChatbot
 
 <img src="https://github.com/kaedefuto/GPT-2_Chatbot/blob/main/images/IMG_5630.jpg" alt="sample" width="40%" height="40%">
 
-## 環境
+## 実行環境
 
 ## 実行
 
