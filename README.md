@@ -21,9 +21,9 @@ GPT-2で作成したChatbot
 - ファインチューニング:ツイートデータ(リプライ会話データ:2021/8/1-8/3)
 - モデル作成プログラム:https://github.com/kaedefuto/gpt-2/tree/main/ubuntu(chatbot)
 
-### 実行環境
+### 実行デモ環境
 
-- 実行デモ環境:Ubuntu18.04 or macOS
+- 実行環境:Ubuntu18.04 or macOS
 - フロント:Line Messaging API
 - バック:Django
 - ツール:ngrok
